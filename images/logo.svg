@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- Helmet shield shape -->
+  <path d="M8 8 L8 38 Q8 50 20 50 L28 50 Q32 50 34 46 L38 38 L38 8 Z" fill="#1a1f2e" stroke="#e85d04" stroke-width="1.5"/>
+  <!-- Visor glow slit -->
+  <rect x="11" y="22" width="24" height="10" rx="2" fill="#e85d04" opacity="0.9"/>
+  <rect x="13" y="24" width="20" height="6" rx="1" fill="#f4a820"/>
+  <!-- Spark burst from visor right side -->
+  <line x1="35" y1="27" x2="44" y2="22" stroke="#f4a820" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="35" y1="27" x2="46" y2="27" stroke="#e85d04" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="35" y1="27" x2="43" y2="33" stroke="#f4a820" stroke-width="1" stroke-linecap="round"/>
+  <line x1="35" y1="27" x2="41" y2="18" stroke="#e85d04" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="35" y1="27" x2="42" y2="36" stroke="#f4a820" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Spark dots -->
+  <circle cx="45" cy="22" r="1.2" fill="#f4a820"/>
+  <circle cx="47" cy="27" r="1" fill="#e85d04"/>
+  <circle cx="44" cy="33" r="0.8" fill="#f4a820"/>
+  <!-- Electrode / rod diagonal -->
+  <line x1="30" y1="42" x2="50" y2="55" stroke="#8a92a6" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="30" y1="42" x2="50" y2="55" stroke="#e85d04" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+  <!-- Text: INDIAN -->
+  <text x="56" y="28" font-family="'Rajdhani','Arial Narrow',sans-serif" font-size="22" font-weight="700" fill="#ffffff" letter-spacing="2">INDIAN</text>
+  <!-- Text: WELDERS -->
+  <text x="56" y="50" font-family="'Rajdhani','Arial Narrow',sans-serif" font-size="22" font-weight="700" fill="#e85d04" letter-spacing="1.5">WELDERS</text>
+  <!-- Underline rule -->
+  <rect x="56" y="53" width="110" height="1.5" fill="#e85d04" opacity="0.5" rx="1"/>
+</svg>
